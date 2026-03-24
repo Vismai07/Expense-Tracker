@@ -72,6 +72,7 @@ summary[month] += e.amount
 $$
 S_c = \sum_{i : c_i = c} a_i
 $$
+
 breakdown[e.category] += e.amount
 
 ### System Pipeline
